@@ -1,3 +1,3 @@
 # git_test
 My first Github repo!!!
-Hello World and, Odin!
+Hello World and, FreeCodeCamp!
